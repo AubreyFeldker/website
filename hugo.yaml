@@ -113,7 +113,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/BrooksFeldkerResume2025.pdf"
+      url: "BrooksFeldkerResume2025.pdf"
       download: false
       newPage: true
     socialLinks:

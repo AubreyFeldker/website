@@ -7,7 +7,7 @@ author: "Aubrey Feldker"
 badges:
     - "JavaScript"
     - "APIs"
-image: images/projects/bots.png
+image: "{{ .Site.Params.staticPath }}/images/projects/bots.png"
 description: "Multiple interactive bots that utilize Discord's API to service information and fun activities to over 38,000 users."
 ---
 
