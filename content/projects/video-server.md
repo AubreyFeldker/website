@@ -10,7 +10,7 @@ badges:
     - "APIs"
     - "Electron"
     - "ffmpeg"
-image: website/images/projects/vidfy.png
+image: images/projects/vidfy.png
 description: "Scalable video server built for cataloguing videos across multiple storage locations, balancing size constraints and response times."
 ---
 
