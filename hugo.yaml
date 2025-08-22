@@ -30,9 +30,9 @@ markup:
 
 params:
   title: Aubrey's Portfolio
-  description: Text about my cool site
+  description: CS Masters Graduate, Perspective Software Engineer
   staticPath: "https://aubreyfeldker.github.io/website/"
-  favicon: "/images/self.jpg"
+  favicon: "website/images/self.jpg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -106,7 +106,7 @@ params:
     intro: "Portfolio site for Brooks Feldker, but I go by"
     title: "Aubrey Feldker"
     content: "I am Computer Science graduate with a focus in full-stack development, ready to start my career and grow my skills further."
-    image: /images/self.jpg
+    image: website/images/self.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -169,7 +169,6 @@ params:
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "University of Texas - Dallas"
-          url: "https://example.org"
         date: "August 2020 - May 2023"
         GPA: "3.93/4.00"
         content: |-

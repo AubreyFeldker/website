@@ -9,7 +9,7 @@ badges:
     - "MongoDB"
     - "APIs"
     - "MERN Stack"
-image: /images/projects/image_sharing.png
+image: website/images/projects/image_sharing.png
 description: "Single-page React application allowing users to post images across different login sessions."
 ---
 
